@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/EEWDATA.t
+lib/Earthquake/EEW/Decoder.pm
+sample/wni-l10s-decoder.pl
